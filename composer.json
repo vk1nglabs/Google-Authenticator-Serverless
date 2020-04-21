@@ -1,0 +1,12 @@
+{
+	"name": "vk1nglabs/Google-Authenticator-Serverless",
+	"authors": [
+		{
+			"name": "trungpv1601",
+			"email": "trungpv1601@gmail.com"
+		}
+	],
+	"require": {
+		"bref/bref": "^0.5.23"
+	}
+}
